@@ -26,7 +26,7 @@ This Python script fetches real-time weather data from the Weather Underground A
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/weather-observation-script.git
+   git clone https://github.com/bmsam/weather-observation-script.git
    cd weather-observation-script
    ```
 
