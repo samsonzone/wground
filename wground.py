@@ -112,7 +112,7 @@ def get_weather():
         print(f"Dew Point:         {dewpt_colored}")
         print(f"Humidity:          {humidity}%")
         print(f"Wind:              {wind_dir_compass} @ {wind_speed_colored} (Gusts @ {wind_gust_colored})")
-        print(f"Max Gust:      {high_gust_colored}")
+        print(f"Max Gust:          {high_gust_colored}")
         print(f"Pressure:          {pressure} inHg")
         print(f"Precip Rate:       {precip_rate} in/hr")
         print(f"Precip Total:      {precip_total} in\n")
