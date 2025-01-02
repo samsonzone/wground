@@ -42,7 +42,7 @@ This Python script fetches real-time weather data from the Weather Underground A
 
 4. **Run the Script**  
    ```bash
-   ./weather.py
+   ./wground.py
    ```
 
 ---
