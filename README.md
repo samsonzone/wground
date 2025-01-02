@@ -63,7 +63,7 @@ WEATHER STATION OBSERVATION
 ---------------------------
 Observation Time:  2024-01-01 10:30 AM
 Location:          New York City, NY (Station ID)
-Hardware:          WeatherLink Live
+Hardware:          myAcuRite
 
 Temperature:       45.2°F
 Feels like:        42.5°F
