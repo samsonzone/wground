@@ -37,7 +37,7 @@ This Python script fetches real-time weather data from the Weather Underground A
 
 3. **Set Execute Permissions**  
    ```bash
-   chmod +x weather.py
+   chmod +x wground.py
    ```
 
 4. **Run the Script**  
